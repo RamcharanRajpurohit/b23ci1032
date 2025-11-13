@@ -1,7 +1,7 @@
 # FuelEU Maritime Compliance Platform
 
 Full-stack TypeScript application for managing maritime fuel compliance under FuelEU regulations.
-
+🔴 Live Site: https://b23ci1032.vercel.app/
 ## 🎯 Features
 
 - **Routes Management**: Track vessel routes with GHG intensity data
